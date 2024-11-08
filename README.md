@@ -18,4 +18,4 @@ OUR MISSIONS HERE IS TO ANALYSE GLOBAL WARMING EFFECTS ON FOREIGN EXCHANGE MARKE
  influence of ENSO on the financial decisions of market agents. Moreover in contrast to
  prior studies that mainly examine the effect of weather conditions returns and volatility,
  our analysis focuses on Foreign exchange volume. We posit that Forex volume is a more
- appropriate measure of country currencies activity
+ appropriate measure of country currencies activity.
